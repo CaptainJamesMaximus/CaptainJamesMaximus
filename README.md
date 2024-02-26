@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
+[
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>](https://scitechdaily.com/images/Neuroscience.gif)
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Datascience;Machine+Learning;Neuroscience)](https://git.io/typing-svg)
 <!--
 **CaptainJamesMaximus/CaptainJamesMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
