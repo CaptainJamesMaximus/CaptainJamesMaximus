@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Datascience+|+Machine+Learning+|+Neuroscience;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Datascience;Machine+Learning;Neuroscience)](https://git.io/typing-svg)
 <!--
 **CaptainJamesMaximus/CaptainJamesMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
