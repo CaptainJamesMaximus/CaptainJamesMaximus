@@ -1,6 +1,6 @@
 ### Hi there, I'm Anthony James'👋🏻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Motor+Control+Neuroscience+Researcher;neurostimulation,+and+computational+modeling;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Motor+Control+Neuroscience+Researcher;Neurostimulation+with+Machine+Learning;Computational+Modeling+in+Motor+Control)](https://git.io/typing-svg)
 <!--
 **CaptainJamesMaximus/CaptainJamesMaximus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
